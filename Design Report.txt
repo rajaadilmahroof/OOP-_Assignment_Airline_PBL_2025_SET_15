@@ -1,0 +1,34 @@
+AIRLINE RESERVATION & FLIGHT MANAGEMENT SYSTEM
+SkyLink Airways
+
+1. Introduction
+A console-based airline management system developed in C++.
+
+2. Objectives
+Manage flights, passengers and tickets and demonstrate OOP concepts.
+
+3. Main Classes
+Flight, DomesticFlight, InternationalFlight, CharterFlight, Passenger, EconomyPassenger, BusinessPassenger, FirstClassPassenger, Ticket and Airline.
+
+4. OOP Concepts
+Abstraction: abstract Flight and Passenger classes.
+Inheritance: derived flight and passenger classes.
+Polymorphism: virtual display functions.
+Encapsulation: class data and public methods.
+Operator overloading: == and <<.
+Templates: generic showCount function.
+
+5. STL
+The project uses vector and algorithms including find_if and any_of.
+
+6. Exception Handling
+BookingException handles invalid flight, passenger and ticket operations.
+
+7. File Handling
+The system saves a readable summary to sample_data.txt.
+
+8. Testing
+Flight viewing/search, passenger viewing, booking, cancellation, reports and saving were included.
+
+9. Conclusion
+The project demonstrates an airline reservation system using C++ OOP.
