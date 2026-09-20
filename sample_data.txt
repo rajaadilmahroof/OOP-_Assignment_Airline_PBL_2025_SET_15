@@ -1,0 +1,11 @@
+SKYLINK AIRWAYS SAMPLE DATA
+
+Flights:
+SK101 | Domestic | Muzaffarabad -> Islamabad | Capacity: 100
+SK202 | International | Islamabad -> Dubai | Capacity: 180
+SK303 | Charter | Lahore -> Karachi | Capacity: 60
+
+Passengers:
+1 | Ali | Economy
+2 | Ahmed | Business
+3 | Usman | First Class
